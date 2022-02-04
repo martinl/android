@@ -18,7 +18,7 @@
   <project groups="pdk-fs" name="commaai/android_packages_apps_Settings" path="packages/apps/Settings" remote="private" revision="d7abf363759e6df61238274fa21418b4f5490493" upstream="master"/>
   <project groups="pdk-cw-fs,pdk-fs" name="commaai/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="private" revision="d47a796237479857a2108443fafd6dd515802e83" upstream="master"/>
   <project groups="pdk" name="commaai/android_frameworks_opt_telephony" path="frameworks/opt/telephony" remote="private" revision="9c19cdad4aea82f44db09fdc473e26a6964c2b8b" upstream="master"/>
-  <project name="martinl/android_kernel_oneplus_msm8996" path="kernel/oneplus/msm8996" remote="private" revision="363a052d0b9bb019e972ed6d2a923da58893ac70" upstream="master"/>
+  <project name="martinl/android_kernel_oneplus_msm8996" path="kernel/oneplus/msm8996" remote="github" revision="363a052d0b9bb019e972ed6d2a923da58893ac70" upstream="master"/>
   <project groups="pdk" name="commaai/android_frameworks_opt_net_wifi" path="frameworks/opt/net/wifi" remote="private" revision="aee39089c1af7ec238218ea43b107acbd4c4bf81" upstream="master"/>
   <project groups="pdk-fs" name="commaai/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" remote="private" revision="6c2fa29a5abf747b9b477146d71a664c4f86c2f4" upstream="master"/>
 
