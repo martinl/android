@@ -1,4 +1,4 @@
-repo init -u git@github.com:commaai/android.git -b mindroid
+repo init -u git@github.com:martinl/android.git -b repeatable-build-mindroid
 repo sync
 
 source build/envsetup.sh
